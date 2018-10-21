@@ -1,0 +1,179 @@
+Premise Code, Premise Description
+101, Street
+102, Sidewalk
+103, Alley
+104, Driveway
+105, Pedestrian Overcrossing
+106, Tunnel
+107, Vacant Lot
+108, Parking Lot
+109, Park/Playground
+110, Freeway
+111, Charter Bus And Privately Owned Bus
+112, Bus; School; Church
+113, Truck; Commercial
+114, Taxi
+115, Aircraft
+116, Other/Outside
+117, Beach
+118, Construction Site
+119, Porch; Residential
+120, Storage Shed
+121, Yard (Residential/Business)
+122, Vehicle; Passenger/Truck
+123, Parking Underground/Building
+124, Bus Stop
+125, Pay Phone
+126, Train
+127, Trash Can/Trash Dumpster
+128, Bus Stop Or Layover
+129, Terminal
+130, Redline Entrance/Exit
+131, Redline Subway Platform
+133, Redline Subway Rail Car (Inside Train)
+134, Redline Subway Tunnel
+135, Mta Property Or Parking Lot
+138, Stairwell
+139, Amusement Park
+140, Balcony
+141, Cemetery
+142, Drive Thru
+144, Golf Course
+145, Mail Box
+146, Patio
+147, Pool-public/Outdoor or Indoor
+148, Public Restroom/Outside
+149, River Bed
+150, Tool Shed
+151, Tow Yard
+152, Underpass/bridge
+154, Train Tracks
+201, Jewellery Store
+202, Liquor Store
+203, Other Business
+204, Manufacturing Company
+205, Gun/Sporting Goods
+206, Tv/Radio/Appliance
+207, Bar/Xocktail/Nightclub
+208, Auto Sales Lot
+209, Equipment Rental
+210, Restaurant/Fast Food
+211, Pawn Shop
+212, Transportation Facility (Airport)
+213, Warehouse
+214, Bus Depot
+215, Train Depot
+216, Swap Meet
+217, Auto Repair Shop
+218, Beauty/Barber Shop
+219, Cleaner/Laundromat
+220, Nail Salon
+221, Public Storage
+222, Laundromat
+223, Video Rental Store
+225, Record-cd Music/Computer Game Store
+227, Abortion Clinic/Abortion Facility
+228, Bowling Alley
+229, Check Cashing
+230, Day Care/Adults
+231, Day Care/Children
+232, Delivery Service (Fed Ex; UPS; Couriers; Courier Service)
+233, Tattoo Parlour
+234, Optical Office Inside Store Or Supermarket
+235, Pharmacy Inside Store Or Supermarket
+236, Vision Care Facility
+237, Hospice
+238, Telecommunication Facility/Location
+239, Medical Marijuana Facilities/Businesses
+244, Tobacco Shop
+247, Car Wash
+248, Cell Phone Store
+301, Gas Station
+302, Factory
+303, Oil Refinery
+304, Garment Manufacturer
+305, Chemical Storage/manufacturing Plant
+401, Mini-mart
+402, Market
+403, Drug Store
+404, Department Store
+405, Clothing Store
+406, Other Store
+407, Hardware/building Supply
+408, Auto Supply Store
+409, Beauty Supply Store
+410, Membership Store (Costco; Sams Club)
+501, Single Family Dwelling
+502, Multi-unit Dwelling (Apartment; Duplex; Etc)
+503, Hotel
+504, Other Residence
+505, Motel
+506, Abandoned Building Abandoned House
+507, Condominium/Townhouse
+508, Frat House/Sorority/Dormitory
+509, Mobile Home/Trailers/Construction Trailers/RVs/Motorhome
+510, Nursing/Convalescent/Retirement Home
+511, Project/Tenement/Public Housing
+512, Foster Home Boys Or Girls
+514, Group Home
+601, Savings & Loan
+602, Bank
+603, Credit Union
+604, Finance Company
+605, Automated Teller Machine (ATM)
+606, Drive Thru Banking (Window)
+607, Banking Inside Market-store
+701, Hospital
+702, Office Building/Office
+703, Entertainment/Comedy Club (Other)
+704, Elementary School
+705, Slips/Dock/Marina/Boat
+706, Sex Oriented/Book Store
+707, Garage/Carport
+708, Church/Chapel (Changed 03-03 From Church/Temple)
+709, Public Restroom(Indoors-inside)
+710, Other Premise
+711, Arcade; Game Room/Video Games (Example Chuckie Cheese)
+712, Coliseum
+713, Convention Center
+714, Dodger Stadium
+715, Horse Racing/Santa Anita Park
+716, Theatre/Movie
+717, Health Spa/Gym
+718, Massage Parlour
+719, Medical/Dental Offices
+720, Junior High School
+721, High School
+722, College/Junior College/University
+723, Private School/preschool
+724, Trade School (Medical-technical-business)
+725, Government Facility (Federal; State; County & City)
+726, Police Facility
+727, Shopping Mall (Common Area)
+728, Elevator
+729, Specialty School/Other
+730, Synagogue/Temple
+731, Mosque
+732, Post Office
+733, Bar/Sports Bar (Open Day & Night)
+735, Night Club (Open Evenings Only)
+736, Skateboard Facility/Skateboard Park
+738, Library
+739, Sports Arena
+740, Other Place Of Worship
+741, Staples Centre
+742, Sports Venue; Other
+743, Mass Gathering Location
+744, High-rise Building
+746, Sewage Facility/pipe
+750, Cyberspace
+751, Website
+752, Fire Station
+801, Mta Bus
+802, Municipal Bus Line Includes Ladot/Dash
+803, Retired (Duplicate) Do Not Use This Code
+804, Greyhound Or Interstate Bus
+807, Blue Line (Above Ground Surface Train)
+809, Metrolink Train
+810, Amtrak Train
+811, Other Rr Train (Union Pac; Sante Fe; etc.)

@@ -1,0 +1,778 @@
+Code, Description
+0100, Suspect Impersonate
+0101, Aid Victim
+0102, Blind
+0103, Crippled
+0104, Customer
+0105, Delivery
+0106, Doctor
+0107, God
+0108, Infirm
+0109, Inspector
+0110, Involved in Traffic/accident
+0112, Police
+0113, Renting
+0114, Repair Person
+0115, Returning Stolen Property
+0116, Satan
+0117, Salesman
+0118, Seeking Someone
+0119, Sent by Owner
+0120, Social Security/medicare
+0121, Dwp/gas Company/utility Worker
+0122, Contractor
+0123, Gardener/tree Trimmer
+0200, Suspect Wore Disguise
+0201, Bag
+0202, Cap/hat
+0203, Cloth (With Eyeholes)
+0204, Clothes of Opposite Sex
+0205, Earring
+0206, Gloves
+0207, Handkerchief
+0208, Halloween Mask
+0209, Mask
+0210, Make Up (Males Only)
+0211, Shoes
+0212, Nude/partly Nude
+0213, Ski Mask
+0214, Stocking
+0215, Unusual Clothes
+0216, Suspect Wore Hood/hoodie
+0217, Uniform
+0218, Wig
+0219, Moustache-fake
+0220, Suspect Wore Motorcycle Helmet
+0301, Escaped on (Used) Transit Train
+0302, Aimed Gun
+0303, Ambushed
+0304, Ate/drank on Premises
+0305, Attacks From Rear
+0306, Crime on Upper Floor
+0307, Defecated/urinated
+0308, Demands Jewellery
+0309, Drive-by Shooting
+0310, Got Victim to Withdraw Savings
+0311, Graffiti
+0312, Gun in Waistband
+0313, Hid in Building
+0314, Hot Prowl
+0315, Jumped Counter/goes Behind Counter
+0316, Makes Victim Give Money
+0317, Pillowcase/suitcase
+0318, Prepared Exit
+0319, Profanity Used
+0320, Quiet Polite
+0321, Ransacked
+0322, Smashed Display Case
+0323, Smoked on Premises
+0324, Takes Money From Register
+0325, Took Merchandise
+0326, Used Driver
+0327, Used Lookout
+0328, Used Toilet
+0329, Vandalized
+0330, Victims Vehicle Taken
+0331, Mailbox Bombing
+0332, Mailbox Vandalism
+0333, Used Hand Held Radios
+0334, Brandishes Weapon
+0335, Cases Location
+0336, Chain Snatch
+0337, Demands Money
+0338, Disables Telephone
+0339, Disables Video Camera
+0340, Suspect Follows Victim/follows Victim Home
+0341, Makes Victim Lie Down
+0342, Multi-suspects Overwhelm
+0343, Orders Victim to Rear Room
+0344, Removes Victim Property
+0345, Riding Bike
+0346, Snatch Property and Runs
+0347, Stalks Victim
+0348, Takeover Other
+0349, Takes Mail
+0350, Concealed Victim's Body
+0351, Disabled Security
+0352, Took Victim's Clothing or Jewellery
+0353, Weapon Concealed
+0354, Suspect Takes Car Keys
+0355, Demanded Property Other Than Money
+0356, Suspect Spits on Victim
+0357, Cuts or Breaks Purse Strap
+0358, Forces Entry
+0359, Made Unusual Statement
+0360, Suspect Is Other Family Member
+0361, Suspect Is Neighbor
+0362, Suspect Attempts to Carry Victim Away
+0363, Home Invasion
+0364, Suspect Is Babysitter
+0365, Takeover Robbery
+0366, Ordered Victim to Open Safe
+0367, Was Transit Patrol
+0368, Suspect Speaks Foreign Language
+0369, Suspect Speaks Spanish
+0370, Frisks Victim/pats Down Victim/searches Victim
+0371, Gang Affiliation Questions Asked/made Gang Statement
+0372, Photographed Victim/took Pictures of Victim
+0373, Handicapped/in Wheelchair
+0374, Gang Signs/threw Gang Signs Using Hands
+0375, Removes Cash Register
+0376, Makes Victim Kneel
+0377, Takes Victim's Identification/driver License
+0378, Brings Own Bag
+0379, Turns Off Lights/electricity
+0380, Distracts Victim
+0381, Suspect Apologizes
+0382, Removed Money/property From Safe
+0383, Suspect Entered During Open House/party/estate/yard Sale
+0384, Suspect Removed Drugs From Location
+0385, Suspect Removed Parts From Vehicle
+0386, Suspect Removed Property From Trunk of Vehicle
+0387, Weapon (Other Than Gun) in Waistband
+0388, Suspect Points Laser at Plane/helicopter
+0389, Knock-knock
+0390, Purse Snatch
+0391, Used Demand Note
+0392, False Emergency Reporting
+0393, 911, Abuse
+0394, Suspect Takes Ups; Fedex; Usps Packages
+0395, Murder/suicide
+0396, Used Paper Plates to Disguise License Number
+0397, Cut Lock (to Bicycle; Gate; Etc.
+0398, Roof Access (Remove a/c; Equip; Etc.)
+0399, Vehicle to Vehicle Shooting
+0400, Force Used
+0401, Bit
+0402, Blindfolded
+0403, Bomb Threat; Bomb Found
+0404, Bomb Threat; No Bomb
+0405, Bound
+0406, Brutal Assault
+0407, Burned Victim
+0408, Choked/uses Choke Hold/strangulation/suffocation
+0409, Cover Mouth W/hands
+0410, Covered Victim's Face
+0411, Cut/stabbed
+0412, Disfigured
+0413, Drugged
+0414, Gagged
+0415, Handcuffed/metal
+0416, Hit-hit W/ Weapon
+0417, Kicked
+0418, Kidnapped
+0419, Pulled Victims Hair
+0420, Searched
+0421, Threaten to Kill
+0422, Threaten Victims Family
+0423, Tied Victim to Object
+0424, Tore Clothes Off Victim
+0425, Tortured
+0426, Twisted Arm
+0427, Whipped
+0428, Dismembered
+0429, Victim Knocked to Ground
+0430, Victim Shot
+0431, Sprayed With Chemical
+0432, Intimidation
+0433, Makes Victim Kneel
+0434, Bed Sheets/linens
+0435, Chain
+0436, Clothing
+0437, Flexcuffs/plastic Tie
+0438, Rope/cordage
+0439, Tape/electrical Etc...
+0440, Telephone/electric Cord
+0441, Wire
+0442, Active Shooter/armed Person Who Has Used Deadly Physical Force on Other Persons & Aggressively Continues While Having Access to More Victim's
+0443, Threaten to Harm Victim (Other Than Kill)
+0444, Pushed
+0445, Suspect Swung Weapon
+0446, Suspect Swung Fist
+0447, Suspect Threw Object at Victim
+0448, Grabbed
+0449, Put a Weapon to Body
+0450, Suspect Shot at Victim (No Hits)
+0500, Sex Related Acts
+0501, Suspect Ejaculated Outside Victim
+0502, Fecal Fetish
+0503, Fondle Victim
+0504, Forced to Disrobe
+0505, Forced to Fondle Suspect
+0506, Forced to Masturbate Suspect
+0507, Forced to Orally Copulate Suspect
+0508, Hit Victim Prior; During; After Act
+0509, Hugged
+0510, Kissed Victims Body/face
+0511, Masochism/bondage
+0512, Orally Copulated Victim
+0513, Photographed Victim
+0514, Pornography
+0515, Put Hand; Finger or Object Into Vagina
+0516, Reached Climax/ejaculated
+0517, Sadism/sexual Gratification Obtained by Infliction of Physical or Mental Pain on Others
+0518, Simulated Intercourse
+0519, Sodomy
+0520, Solicited/offered Immoral Act
+0521, Tongue or Mouth to Anus
+0522, Touched
+0523, Unable to Get Erection
+0524, Underwear Fetish
+0525, Urinated
+0526, Utilized Condom
+0527, Actual Intercourse
+0528, Masturbate
+0529, Indecent Exposure
+0530, Used Lubricant
+0531, Suspect Made Sexually Suggestive Remarks
+0532, Suspect Undressed Victim
+0533, Consensual Sex
+0534, Suspect in Vehicle Nude/partially Nude
+0535, Suspect Asks Minor's Name
+0536, Suspect Removes Own Clothing
+0537, Suspect Removes Victim's Clothing
+0538, Suspect Fondles Self
+0539, Suspect Puts Hand in Victim's Rectum
+0540, Suspect Puts Finger(S) in Victim's Rectum
+0541, Suspect Puts Object(S) in Victim's Rectum
+0542, Orders Victim to Undress
+0543, Orders Victim to Fondle Suspect
+0544, Orders Victim to Fondle Self
+0545, Male Victim of Sexual Assault
+0546, Suspect Instructs Victim to Make Certain Statements
+0547, Suspect Force Victim to Bathe/clean/wipe
+0548, Suspect Gives Victim Douche/enema
+0549, Suspect Ejaculates in Victims Mouth
+0550, Suspect Licks Victim
+0551, Suspect Touches Victim Genitalia/genitals Over Clothing
+0552, Suspect Is Victim's Father
+0553, Suspect Is Victim's Mother
+0554, Suspect Is Victim's Brother
+0555, Suspect Is Victim's Sister
+0556, Suspect Is Victim's Step-father
+0557, Suspect Is Victim's Step-mother
+0558, Suspect Is Victim's Uncle
+0559, Suspect Is Victim's Aunt
+0560, Suspect Is Victim's Guardian
+0561, Suspect Is Victim's Son
+0562, Suspect Is Victim's Daughter
+0563, Fetish; Other
+0601, Business
+0602, Family
+0603, Landlord/tenant/neighbour
+0604, Reproductive Health Services/facilities
+0605, Traffic Accident/traffic Related Incident
+0701, Theft: Trick or Device
+0800, Bunco
+0901, Organized Crime
+0902, Political Activity
+0903, Hatred/prejudice
+0904, Strike/labour Troubles
+0905, Terrorist Group
+0906, Gangs
+0907, Narcotics (Buy-sell-rip)
+0908, Prostitution
+0909, Ritual/occult
+0910, Public Transit (Metrolink/train Station; Metro Rail Red; Line Subway Station; Metro Rail Blue Line Station; Adjacent Transit Parking Lots; Tracks or Tunnels Mta(Rtd); and Other Municipal Lines).
+0911, Revenge
+0912, Insurance
+0913, Victim Knew Suspect
+0914, Other Felony
+0915, Parolee
+0916, Forced Theft of Vehicle (Car-jacking)
+0917, Victim's Employment
+0918, Career Criminal
+0919, Road Rage
+0920, Homeland Security
+0921, Hate Incident
+0922, Atm Theft With Pin Number
+0923, Stolen/forged Checks (Personal Checks)
+0924, Stolen/forged Checks (Business Checks)
+0925, Stolen/forged Checks (Cashier's Checks)
+0926, Forged or Telephonic Prescription
+0927, Fraudulent or Forged School Loan
+0928, Forged or Fraudulent Credit Applications
+0929, Unauthorized Use of Victim's Bank Account Information
+0930, Unauthorized Use of Victim's Credit/debit Card or Number
+0931, Counterfeit or Forged Real Estate Documents
+0932, Suspect Uses Victim's Identity in Reporting a Traffic Collision
+0933, Suspect Uses Victim's Identity When Arrested
+0934, Suspect Uses Victim's Identity When Receiving a Citation
+0935, Misc. Stolen/forged Documents
+0936, Dog Fighting
+0937, Cock Fighting
+0938, Animal Neglect
+0939, Animal Hoarding
+0940, Met Online/chat Room/on Party Line
+0941, Non-revocable Parole (Nrp)
+0942, Party/flier Party/rave Party
+0943, Human Trafficking
+0944, Bait Operation
+0945, Estes Robbery
+0946, Gang Feud
+1000, Suspects Offers/solicits
+1001, Aid for Vehicle
+1002, Amusement
+1003, Appraise
+1004, Assistant
+1005, Audition
+1006, Bless
+1007, Candy
+1008, Cigarette
+1009, Directions
+1010, Drink (Not Liquor)
+1011, Employment
+1012, Find a Job
+1013, Food
+1014, Game
+1015, Gift
+1016, Hold for Safekeeping
+1017, Information
+1018, Liquor
+1019, Money
+1020, Narcotics
+1021, Repair
+1022, Ride
+1023, Subscriptions
+1024, Teach
+1025, Train
+1026, Use the Phone or Toilet
+1027, Change
+1028, Suspect Solicits Time of Day
+1100, Shots Fired
+1101, Shots Fired (Animal) - Animal Services
+1201, Absent-advertised in Paper
+1202, Aged (60, & Over) or Blind/crippled/unable to Care for Self
+1203, Victim of Crime Past 12, Months
+1204, Moving
+1205, on Vacation/tourist
+1206, Under Influence Drugs/liquor
+1207, Hitchhiker
+1208, Illegal Alien
+1209, Salesman; Jewellery
+1210, Professional (Doctor; Lawyer; Etc.)
+1211, Public Official
+1212, La Police Officer
+1213, La Fireman
+1214, Banking; ATM
+1215, Prostitute
+1216, Sales
+1217, Teenager(Use if Victim's Age Is Unknown)
+1218, Victim Was Homeless/transient
+1219, Nude
+1220, Partially Nude
+1221, Missing Clothing/jewellery
+1222, Homosexual/gay
+1223, Riding Bike
+1224, Drive-through (Not Merchant)
+1225, Stop Sign/light
+1226, Catering Truck Operator
+1227, Delivery Person
+1228, Leaving Business Area
+1229, Making Bank Drop
+1230, Postal Employee
+1231, Taxi Driver
+1232, Bank; Arriving at
+1233, Bank; Leaving
+1234, Bar Customer
+1235, Bisexual/sexually Oriented Towards Both Sexes
+1236, Clerk/employer/owner
+1237, Customer
+1238, Handicapped
+1239, Transgender
+1240, Vehicle Occupant/passenger
+1241, Spouse
+1242, Parent
+1243, Co-habitants
+1244, Victim Was Forced Into Business
+1245, Victim Was Forced Into Residence
+1247, Opening Business
+1248, Closing Business
+1251, Victim Was a Student
+1252, Victim Was a Street Vendor
+1253, Bus Driver
+1254, Train Operator
+1255, Followed Transit System
+1256, Patron
+1257, Victim Is Newborn-5, Years Old
+1258, Victim Is 6, Years Old Thru 13, Years Old
+1259, Victim Is 14, Years Old Thru 17, Years Old
+1260, Deaf/hearing Impaired
+1261, Mentally Challenged/retarded/intellectually Slow
+1262, Raped While Unconscious
+1263, Agricultural Target
+1264, Pipeline
+1265, Mailbox
+1266, Victim Was Security Guard
+1267, Home Under Construction
+1268, Victim Was 5150/mental Illness
+1269, Victim Was Armoured Car Driver
+1270, Victim Was Gang Member
+1271, Victim Was Law Enforcement (Not Lapd)
+1272, Victim Was at/leaving Medical/retail/non-retail Cannabis Location
+1273, Home Was Being Fumigated
+1274, Victim Was Inmate/incarcerated
+1275, Vacant Residence/building
+1276, Pregnant
+1277, Gardner
+1278, Victim Was Uber/lyft Driver
+1279, Victim Was Foster Child
+1280, Victim Was Foster Parent
+1281, Victim Was Pistol-whipped
+1300, Vehicle Involved
+1301, Forced Victim Vehicle to Curb
+1302, Suspect Forced Way Into Victim's Vehicle
+1303, Hid in Rear Seat
+1304, Stopped Victim Vehicle by Flagging Down; Forcing T/a; Etc.
+1305, Victim Forced Into Vehicle
+1306, Victim Parking; Garaging Vehicle
+1307, Breaks Window
+1308, Drives by and Snatches Property
+1309, Suspect Uses Vehicle
+1310, Victim in Vehicle
+1311, Victim Removed From Vehicle
+1312, Suspect Follows Victim in Vehicle
+1313, Suspect Exits Vehicle and Attacks Pedestrian
+1314, Victim Loading Vehicle
+1315, Victim Unloading Vehicle
+1316, Victim Entering Their Vehicle
+1317, Victim Exiting Their Vehicle
+1318, Suspect Follows Victim Home
+1401, Blood Stains
+1402, Evidence Booked (Any Crime)
+1403, Fingerprints
+1404, Footprints
+1405, Left Note
+1406, Tool Marks
+1407, Bullets/casings
+1408, Bite Marks
+1409, Clothes
+1410, Gun Shot Residue
+1411, Hair
+1412, Jewellery
+1413, Paint
+1414, Photographs
+1415, Rape Kit
+1416, Saliva
+1417, Semen
+1418, Skeleton/bones
+1419, Firearm Booked as Evidence
+1420, Video Surveillance Booked/available
+1501, Other Mo (See Rpt)
+1601, Bodily Force
+1602, Cutting Tool
+1603, Knob Twist
+1604, Lock Box
+1605, Lock Slip/key/pick
+1606, Open/unlocked
+1607, Pried
+1608, Removed
+1609, Smashed
+1610, Tunnelled
+1611, Shaved Key
+1612, Punched/pulled Door Lock
+1701, Elder Abuse/physical
+1702, Elder Abuse/financial
+1801, Suspect Is/was Mother's Boyfriend
+1802, Suspect Is/was Victim's Co-worker
+1803, Suspect Is/was Victim's Employee
+1804, Suspect Is/was Victim's Employer
+1805, Suspect Is/was Fellow Gang Member
+1806, Suspect Is/was Father's Girlfriend
+1807, Suspect Is/was Priest/pastor
+1808, Suspect Is/was Other Religious Confidant
+1809, Suspect Is/was Rival Gang Member
+1810, Suspect Is/was Roommate
+1811, Suspect Is/was Victim's Teacher/coach
+1812, Suspect Is/was Foster Parent/sibling
+1813, Suspect Is/was Current/former Spouse/co-habitant
+1814, Suspect Is/was Current/former Boyfriend/girlfriend
+1815, Suspect Was Student
+1816, Suspect Is/was Known Gang Member
+1817, Acquaintance
+1818, Caretaker/care-giver/nanny
+1819, Common-law Spouse
+1820, Friend
+1821, Spouse
+1822, Stranger
+1823, Brief Encounter/date
+1824, Classmate
+1900, Auction Fraud/eBay/Craigslist; Etc. (Internet Based Theft)
+1901, Child Pornography/in Possession of/via Computer
+1902, Credit Card Fraud/theft of Services via Internet
+1903, Cyberstalking (Stalking Using Internet to Commit the Crime)
+1904, Denial of Computer Services
+1905, Destruction of Computer Data
+1906, Harrassing E-mail/text Message/other Electronic Communications
+1907, Hate Crime Materials/printouts/e-mails
+1908, Identity Theft via Computer
+1909, Introduction of Virus or Contaminants Into Computer System/program
+1910, Minor Solicited for Sex via Internet/known Minor
+1911, Theft of Computer Data
+1912, Threatening E-mail/text Messages
+1913, Suspect Meets Victim on Internet/chatroom
+1914, Unauthorized Access to Computer System
+1915, Internet Extortion
+1916, Victim Paid by Wire Transfer
+2000, Domestic Violence
+2001, Suspect on Drugs
+2002, Suspect Intoxicated/drunk
+2003, Suspect 5150/mentally Challenged or Disturbed
+2004, Suspect Is Homeless/transient
+2005, Suspect Uses Wheelchair
+2006, Suspect Was Transgender
+2007, Suspect Was Homosexual/gay
+2008, in Possession of a Ballistic Vest
+2009, Suspect Was Inmate/incarcerated
+2010, Suspect Was Jailer/police Officer
+2011, Vendor (Street or Sidewalk)
+2012, Suspect Was Costumed Character (E.g.; Barney; Darth Vader; Spiderman; Etc.)
+2013, Tour Bus/van Operator
+2014, Suspect Was Uber/lyft Driver
+2015, Suspect Was Foster Child
+2016, Suspect Was Train Operator
+2017, Suspect Was Mta Bus Driver
+2018, Cannabis Related
+2019, Theft of Animal (Non-livestock)
+2020, Mistreatment of Animal
+2021, Suspect Was Aged (60+over)
+2022, Suspect Was Hitchhiker
+2023, Suspect Was Prostitute
+2024, Suspect Was Juvenile
+2025, Suspect Was Bisexual
+2026, Suspect Was Deaf/hearing Impaired
+2027, Suspect Was Pregnant
+2028, Suspect Was Repeat/known Shoplifter
+2029, Victim Used Profanity
+2030, Victim Used Racial Slurs
+2031, Victim Used Hate-related Language
+2032, Victim Left Property Unattended
+2033, Victim Refused to Cooperate W/investigation
+2034, Victim Was Asleep/unconscious
+2035, Racial Slurs
+2036, Hate-related Language
+2037, Temporary/vacation Rental (Airbnb; Etc)
+2038, Restraining Order in Place Between Suspect and Victim
+2039, Victim Was Costumed Character (E.g.; Barney; Darth Vader; Spiderman; Etc.)
+2040, Threats via Social Media
+2041, Harassment via Social Media
+2042, Victim Staying at Short-term Vacation Rental
+2043, Victim Is Owner of Short-term Vacation Rental
+2044, Suspect Staying at Short-term Vacation Rental
+2045, Suspect Is Owner of Short-term Vacation Rental
+2046, Suspect Damaged Property Equal to or Exceeding $25;000
+2047, Victim Was Injured Requiring Transportation Away From Scene for Medical Reasons
+2048, Victim Was on Transit Platform
+2049, Victim Was Passenger on Bus
+2050, Victim Was Passenger on Train
+2051, Suspect Was Passenger on Bus
+2052, Suspect Was Passenger on Train
+9999, Indistinctive Mo
+2100, Observation/surveillance
+2101, Counter Surveillance Efforts
+2102, Questions About-security Procedures
+2103, Appears to Take Measurements
+2104, Photography (Pics or Video Footage)
+2105, Draws Diagrams or Takes Notes
+2106, Abandons Suspecticious Package/item
+2107, Abandons Vehicle Restricted Area
+2108, Enters Restricted Area W/o Authorization
+2109, Testing or Probing of Security
+2110, Contraband at Security Check Point
+2111, Suspect Purchase of Legal Materials
+2112, Acquires Restricted Items/information
+2113, Acquires Illegal Explosive/precur Agents
+2114, Acquires Illegal Chemical Agent
+2115, Acquires Illegal Biological Agents
+2116, Acquires Illegal Rediological Material
+2117, Uses Explosives for Illegal Purposes
+2118, Uses Chemical Agent Illegally
+2119, Uses Biological Agent Illegally
+2120, Uses Radiological Material Illegally
+2121, Acquires Uniforms Without Legit Reason
+2122, Acquires Official Vehicle Without Legit Reason
+2123, Pursues Training/education With Suspect Motives
+2124, Large Unexplained Sum of Currency
+2125, Multiple Passports/id's/travel Documents
+2126, Expressed or Implied Threats
+2127, Brags About Affiliation With Extremist Organization
+2128, Coded Conversation or Transmission
+2129, Overt Support of Terrorist Network
+2130, Uses Facsimile/hoax Explosive Device (Suspect Offer/solicts)
+2131, Uses Facsimile/hoax Dispersal Device (Suspect Offer/solicts)
+2135, Sensitive Event Schedules(Suspect Offer/solicts)
+2136, Vip Appearance or Travel Schedules (Suspect Offer/solicts)
+2137, Security Schedules (Suspect Offer/solicts)
+2138, Blueprints/building Plans (Suspect Offer/solicts)
+2139, Evacuation or Emergency Plans (Suspect Offer/solicts)
+2140, Security Plans (Suspect Offer/solicts)
+2141, Weapons or Ammunition (Suspect Offer/solicts)
+2142, Explosive Materials(Suspect Offer/solicts)
+2143, Illicit Chemical Agents (Suspect Offer/solicts)
+2144, Illicit Biological Agents (Suspect Offer/solicts)
+2145, Illicit Radiological Material (Suspect Offer/solicts
+2146, Other Sensitive Materials (Suspect Offer/solicts)
+2150, Coded/ciphered Literature/correspondence
+2151, Sensitive Event Schedules (Suspect in Possession)
+2152, Vip Appearance or Travel Schedules (Suspect in Possession)
+2153, Security Schedules (Suspect in Possession)
+2154, Blueprints/building Plans (Suspect in Possession)
+2155, Evacuation or Emergency Plans (Suspect in Possession)
+2156, Security Plans (Suspect in Possession)
+2157, Weapons or Ammunition (Suspect in Possession)
+2158, Explosive Materials (Suspect in Possession)
+2159, Illicit Chemical Agents (Suspect in Possession)
+2160, Illicit Biological Agents (Suspect in Possession)
+2161, Illicit Radiological Material (Suspect in Possession)
+2162, Other Sensitive Materials (Suspect in Possession)
+2163, Facsimile/hoax Explosive Device (Suspect in Possession)
+2164, Facsimile/hoax Dispersal Device (Suspect in Possession)
+2170, Associates With Known/suspect Terrorist
+2171, Corresponds W/suspected Terrorist
+2172, in Photos W/suspected Terrorists
+2173, Organization Supports Overthrow/violent Acts
+2180, Bomb/explosive Device
+2181, Biological Agent
+2182, Chemical Agent
+2183, Radiological Matter
+2184, Military Ordinance
+2185, Incendiary Device
+2186, Pyrotechnics
+2187, Facsimile/hoax Device
+2190, Financing Terrorism
+2191, Victim's Religion
+2192, Victim's National Origin
+2193, Influencing Societal Action
+2194, Furthering Objectives by Force
+2197, Ssi - Food/agriculture
+2198, Pipeline
+2199, Ssi - Postal/shipping/mailbox
+2200, Ssi - Government Facilities/bldg.
+2201, Church
+2202, Synagogue
+2203, University
+2204, School
+2205, Sports Venue
+2206, Theater
+2207, Amusement Park
+2208, Shopping Mall
+2209, Convention Center
+2210, Mass Gathering Location
+2211, Bridge
+2212, High-rise Building
+2213, Airport
+2214, Freight Train
+2215, Train Tracks
+2216, Ssi - Chemical Storage/manufacturing Plant
+2217, Ssi - Telecommunication Facility/location
+2218, Ssi - Energy Plant/facility
+2219, Ssi - Water Facility
+2220, Sewage Facility/pipe
+2221, Ssi - Nuclear Facility; Reactors; Materials & Waste
+2222, Ssi - Dam/reservoir
+2223, Ssi - National Monuments/icon/cultural Significance
+2224, Tactical Significance
+2225, Ssi - Healthcare & Public Health/hospital/medical Clinic
+2226, Abortion Clinic
+2227, Ssi - Defense Industrial Base/facility
+2228, Ssi - Transportation System
+2229, Ssi - Commercial Facilities
+2230, Ssi - Information Technology
+2231, Ssi - Banking and Finance
+2232, Ssi - Critical Manufacturing
+2233, Ssi - Emergency Services
+2234, Ssi - Waste
+2301, Breach/attempted Intrusion
+2302, Misrepresentation
+2303, Theft/loss/diversion
+2304, Sabotage/tampering/vandalism
+2305, Cyber Attack
+2306, Espouses Violent Extremist Views
+2307, Aviation Activity
+2308, Eliciting Information
+2309, Recruiting
+2310, Materials
+2311, Acquisition of Expertise
+2312, Weapons Discovery
+2313, Finance
+2314, Tsc Hit
+2315, Sector-specific Incident (Ssi)
+3001, T/c - Veh Vs Non-collision
+3002, T/c - Officer Involved T/c
+3003, T/c - Veh Vs Ped
+3004, T/c - Veh Vs Veh
+3005, T/c - Veh Vs Veh on Other Roadway
+3006, T/c - Veh Vs Parked Veh
+3007, T/c - Veh Vs Train
+3008, T/c - Veh Vs Bike
+3009, T/c - Veh Vs M/c
+3010, T/c - Veh Vs Animal
+3011, T/c - Veh Vs Fixed Object
+3012, T/c - Veh Vs Other Object
+3013, T/c - M/c Vs Veh
+3014, T/c - M/c Vs Fixed Object
+3015, T/c - M/c Vs Other
+3016, T/c - Bike Vs Veh
+3017, T/c - Bike Vs Train
+3018, T/c - Bike Vs Other
+3019, T/c - Train Vs Veh
+3020, T/c - Train Vs Train
+3021, T/c - Train Vs Bike
+3022, T/c - Train Vs Ped
+3023, T/c - Train Vs Fixed Object
+3024, T/c - (a) Severe Injury
+3025, T/c - (B) Visible Injury
+3026, T/c - (C) Complaint of Injury
+3027, T/c - (K) Fatal Injury
+3028, T/c - (N) Non Injury
+3029, T/c - Hit and Run Fel
+3030, T/c - Hit and Run Misd
+3032, T/c - Private Property - Yes
+3033, T/c - Private Property - No
+3034, T/c - City Property Involved - Yes
+3035, T/c - City Property Involved - No
+3036, T/c - at Intersection - Yes
+3037, T/c - at Intersection - No
+3038, T/c - Dui Felony
+3039, T/c - Dui Misdemeanor
+3040, T/c - Resulting From Street Racing/speed Exhibition
+3062, T/c - Bicyclist in Bicycle Lane
+3101, T/c - Pcf (a) in the Narrative
+3102, T/c - Pcf (B) Other Improper Driving
+3103, T/c - Pcf (C) Other Than Driver
+3104, T/c - Pcf (D) Unk
+3201, T/c - Weather/lighting/roadway
+3301, T/c - Traffic Control Devices
+3401, T/c - Type of Collision
+3501, T/c - Ped Actions
+3601, T/c - Special Information and Other
+3602, T/c - Unlicensed Motorist
+3603, T/c - Bicyclists Colliding Into Opened Vehicle Door
+3701, T/c - Movement Preceding Collision
+3801, T/c - Sobriety
+3901, T/c - Safety Equipment
+4001, T/c - Central
+4002, T/c - Rampart
+4003, T/c - Southwest
+4004, T/c - Hollenbeck
+4005, T/c - Harbor
+4006, T/c- Hollywood
+4007, T/c - Wilshire
+4008, T/c - West Los Angeles
+4009, T/c - Van Nuys
+4010, T/c - West Valley
+4011, T/c - Northeast
+4012, T/c - 77th
+4013, T/c - Newton
+4014, T/c - Pacific
+4015, T/c - North Hollywood
+4016, T/c - Foothill
+4017, T/c - Devonshire
+4018, T/c - Southeast
+4019, T/c - Mission
+4020, T/c - Olympic
+4021, T/c - Topanga
+4024, T/c - Central Traffic (Ctd)
+4025, T/c - South Traffic (Std)
+4026, T/c - Valley Traffic (Vtd)
+4027, T/c - West Traffic (Wtd)

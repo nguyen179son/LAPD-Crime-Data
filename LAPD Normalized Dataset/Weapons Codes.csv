@@ -1,0 +1,72 @@
+﻿Weapon Code, Weapon Description
+101, Revolver
+102, Hand Gun
+103, Rifle
+104, Shotgun
+105, Sawed Off Rifle/shotgun
+106, Unknown Firearm
+107, Other Firearm
+108, Automatic Weapon/sub-machine Gun
+109, Semi-automatic Pistol
+110, Semi-automatic Rifle
+111, Starter Pistol/revolver
+112, Toy Gun
+113, Simulated Gun
+114, Air Pistol/revolver/rifle/bb Gun
+115, Assault Weapon/Uzi/AK47/etc
+117, Unknown Type Semiautomatic Assault Rifle
+118, Uzi Semiautomatic Assault Rifle
+119, Mac-10 Semiautomatic Assault Weapon
+121, Heckler & Koch 91 Semiautomatic Assault Rifle
+122, Heckler & Koch 93 Semiautomatic Assault Rifle
+200, Knife With Blade 6inches Or Less
+201, Knife With Blade Over 6 Inches In Length
+202, Bowie Knife
+203, Dirk/dagger
+204, Folding Knife
+205, Kitchen Knife
+206, Switch Blade
+207, Other Knife
+208, Razor
+209, Straight Razor
+210, Razor Blade
+211, Axe
+212, Bottle
+213, Cleaver
+214, Ice Pick
+215, Machete
+216, Scissors
+217, Sword
+218, Other Cutting Instrument
+219, Screwdriver
+220, Syringe
+221, Glass
+222,
+223, Unknown Type Cutting Instrument
+300, Blackjack
+301, Belt Flailing Instrument/chain
+302, Blunt Instrument
+303, Brass Knuckles
+304, Club/bat
+305, Fixed Object
+306, Rock/thrown Object
+307, Vehicle
+308, Stick
+309, Board
+400, Strong-arm (Hands; Fist; Feet Or Bodily Force)
+500, Unknown Weapon/other Weapon
+501, Bomb Threat
+502, Bow And Arrow
+503, Caustic Chemical/poison
+504, Demand Note
+505, Explosive Device
+506, Fire
+507, Liquor/drugs
+508, Martial Arts Weapons
+509, Rope/ligature
+510, Scalding Liquid
+511, Verbal Threat
+512, Mace/pepper Spray
+513, Stun Gun
+514, Tire Iron
+515, Physical Presence
